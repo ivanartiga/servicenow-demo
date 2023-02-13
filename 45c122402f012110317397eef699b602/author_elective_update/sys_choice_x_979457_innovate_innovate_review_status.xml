@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="review_status" table="x_979457_innovate_innovate" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>review_status</element>
+            <name>x_979457_innovate_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-11 17:39:07</sys_created_on>
+            <sys_name>review_status</sys_name>
+            <sys_package display_value="Innovate" source="x_979457_innovate">45c122402f012110317397eef699b602</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">45c122402f012110317397eef699b602</sys_scope>
+            <sys_update_name>sys_choice_x_979457_innovate_innovate_review_status</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>review_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Started</label>
+            <language>en</language>
+            <name>x_979457_innovate_innovate</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-11 17:39:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>not_started</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>review_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Progress</label>
+            <language>en</language>
+            <name>x_979457_innovate_innovate</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-11 17:39:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>in_progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>review_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed</label>
+            <language>en</language>
+            <name>x_979457_innovate_innovate</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-11 17:39:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>reviewed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

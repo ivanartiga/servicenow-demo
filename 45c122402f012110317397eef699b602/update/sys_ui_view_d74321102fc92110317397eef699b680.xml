@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>proposal_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-12 07:00:29</sys_created_on>
+        <sys_id>d74321102fc92110317397eef699b680</sys_id>
+        <sys_name>Proposal View</sys_name>
+        <sys_package display_value="Innovate" source="x_979457_innovate">45c122402f012110317397eef699b602</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">45c122402f012110317397eef699b602</sys_scope>
+        <sys_update_name>sys_ui_view_d74321102fc92110317397eef699b680</sys_update_name>
+        <title>Proposal View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
