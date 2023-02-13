@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>test-table</name>
+        <order/>
+        <roles>x_979457_innovate.test_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 06:58:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>708c2ea42f4d6110317397eef699b6c1</sys_id>
+        <sys_name>test-table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate" source="x_979457_innovate">45c122402f012110317397eef699b602</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">45c122402f012110317397eef699b602</sys_scope>
+        <sys_update_name>sys_ui_application_708c2ea42f4d6110317397eef699b6c1</sys_update_name>
+    </sys_ui_application>
+</record_update>
