@@ -18,6 +18,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="125" name="short_description" type="string"/>
+        <element default="Test" label="Test for Demo" max_length="100" name="test_for_demo" type="string"/>
         <index name="index">
             <element name="assigned_to"/>
         </index>
